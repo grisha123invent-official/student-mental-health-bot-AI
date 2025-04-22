@@ -62,8 +62,8 @@ API_KEY=your_api_key_here
 
 ## Скриншоты
 
-![Интерфейс чата](images/chat-interface.jpg)
-![Скриншот сервиса](images/resources-display.jpg)
+![Интерфейс чата](public/images/chat-interface.jpg)
+![Скриншот сервиса](public/images/resources-display.jpg)
 
 ## Лицензия
 
